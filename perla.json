@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AngelMunoz/Perla/main/perla.schema.json",
+  "dependencies": [
+    {
+      "name": "lit",
+      "version": "2.7.4"
+    }
+  ],
+  "devDependencies": []
+}
